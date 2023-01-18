@@ -1,0 +1,15 @@
+../ sirve para retroceder en las carpetas del proyecto php
+
+********************************************************************************************************************
+HTML para crear una caja de texto grande en caso de nesecitar comentarios o grades textos
+
+ <!--segunda parte del formulario --> 
+<div class="col-md-3 col-md-offset-2 col-sm-3 col-sm-offset-1 col-lg-4 col-lg-offset-1 col-xs-10 col-xs-offset-0">
+<div class="form-group">
+<i class="fas fa-map-pin"></i>
+<label for="exampleFormControlTextarea1">Example textarea</label>
+<textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+  	     	 		 		
+</div>
+</div>
+  	     	 	
